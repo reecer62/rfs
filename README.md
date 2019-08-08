@@ -4,4 +4,5 @@ A clicker game. The idea for this game was born when an intense battle to have a
 
 # Features
 - Lobbies
+- Statistics (most number of clicks in an interval, click speed, etc)
 - Real-time leaderboard updates
