@@ -8,3 +8,4 @@ A clicker game. The idea for this game was born when an intense battle to have a
 - Real-time leaderboard updates
 - Visualized data
 - SVGs and animations
+- Save and Export games
