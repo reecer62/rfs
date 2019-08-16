@@ -10,4 +10,4 @@ A clicker game. The idea for this game was born when an intense battle to have a
 - SVGs and animations
 - Save and Export games
 - Upgrades
-- upgrade paths
+- Upgrade paths
