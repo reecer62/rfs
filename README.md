@@ -12,3 +12,4 @@ A clicker game. The idea for this game was born when an intense battle to have a
 - Save and Export games
 - Upgrades
 - Upgrade paths
+- Mobile Friendly
