@@ -16,3 +16,4 @@ A clicker game. The idea for this game was born when an intense battle to have a
 - Random Beginning Power-Ups to choose from
 - Score Modifiers (from choosing difficulty, etc)
 - Random Events throughout game
+- Canvas
