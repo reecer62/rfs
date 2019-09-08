@@ -8,7 +8,7 @@ A clicker game. The idea for this game was born when an intense battle to have a
 - Statistics (most number of clicks in an interval, click speed, etc)
 - Real-time leaderboard updates
 - Visualized data
-- SVGs and animations
+- Custom SVGs and animations
 - Save and Export games
 - Upgrades
 - Upgrade paths
